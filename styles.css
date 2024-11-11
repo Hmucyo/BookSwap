@@ -44,7 +44,7 @@ header input[type="text"], header select, header button {
     padding-bottom: 10px;
 }
 .book-card {
-    width: 150px;
+    width: 100%;
     text-align: center;
 }
 .book-card img {
